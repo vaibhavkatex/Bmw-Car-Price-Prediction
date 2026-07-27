@@ -37,12 +37,11 @@ This project demonstrates the complete Machine Learning workflow:
 
 ## 🖥️ Demo
 
-**Live Demo:** *(not live demo ........)*
-
-Example:
+**Live Demo:** 
 
 ```
-https://bmw-car-price-prediction.streamlit.app
+https://bmw-car-price-prediction.streamlit.app](https://bmwcarpriceprediction-uvhrm8k6ku9asbjtybmene.streamlit.app/
+
 ```
 
 ---
